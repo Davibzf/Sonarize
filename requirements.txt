@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+pyjwt
+bcrypt
+python-multipart
+openai-whisper
+google-generativeai
+pytest
+httpx
+alembic
+pydantic-settings
+email-validator
